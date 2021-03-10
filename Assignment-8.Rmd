@@ -1,0 +1,57 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 497"
+author: "Sara Faiad<br>sfaiad@uw.edu<br>"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction 
+
+## About Me | Personal
+- Pennsylvania 
+- favorite foods: 
+    - nachos with pulled pork, veggie queso, black beans, & jackfruit 
+    - burgers, either mushroom or from Red Mill  
+    - rosemary flat bread with beets and goat cheese 
+- favorite animals: 
+    - bats, especially the fruit bats though I love all bats
+    - elephants 
+    - dogs, particularly Obi
+    - monkeys and apes - gibbons and gorillas are probably my favorite, but I really love all primates
+    
+## About Me | Academic 
+
+- Waynesburg University 
+- B.A. Psychology, minor in Biology 
+
+## About Me | Things I’ve missed during the pandemic
+
+1) My family and friends. Some of my favorite people are on the east coast and some are much much closer (in Oregon), and I haven't felt safe seeing any of them. 
+
+2) Going out to eat. I **love** going out to eat, though I've transitioned to take-out, which has it's perks. 
+
+3) Events. I was super excited to move to Seattle to be in a place were events, like live podcast shows and concerts, actually happen. Well, they haven't been happening. 
+
+# Data science 
+
+## Course topics | 3 things I enjoyed learning about
+
+1) R Markdown for publishing papers, creating presentations, and building a website
+
+2) Shiny apps 
+
+3) Data analysis & visualization
+
+## Course topics | 3 things I's like to learn more about
+
+1) Shiny apps 
+
+2) Careers in Data Science 
+
+3) Open Science, especially building colloborative coding styles 
+
+# {data-background=PNW.jpg data-background-size=cover}
